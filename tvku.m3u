@@ -426,6 +426,9 @@ https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
 
 #Filem
 
+#EXTINF:-1 tvg-id="channel1" tvg-name="Stream Hownetwork" tvg-logo="https://banner2.cleanpng.com/lnd/20250119/vv/412eccdecb4eff7c0fb3f57b7b7410.webp" group-title="🎬 Filem", Minecraft
+https://cloud.hownetwork.xyz/video.php?id=I1UkJyscFDMjNwNhLl8gMSdVe353TFo2JzMTIBxoCW1yQXAqdUkW
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994

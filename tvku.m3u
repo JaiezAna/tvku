@@ -13,55 +13,55 @@
 
 #AmiAdi-TV (ID)
 
-#EXTINF:-1 tvg-id="DW.com" tvg-name="DW.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW Documenter
+#EXTINF:-1 tvg-id="DW.com" tvg-name="DW.id" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW Documenter
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="RCTV.TiVi" tvg-name="RCTV.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/RCTV_Cirebon.jpg",RCTV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/RCTV_Cirebon.jpg",RCTV (576p) [Not 24/7]
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="--" tvg-name="Trans7" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="📺 AmiAdi-TV",Trans7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="📺 AmiAdi-TV",Trans7
 http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="--" group-title="📺 AmiAdi-TV" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png", Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" group-title="📺 AmiAdi-TV" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png", Trans 7
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png", Trans TV (Indi)
+#EXTINF:-1 tvg-id="TransTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png", Trans TV (Indi)
 https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="📺 AmiAdi-TV",Trans TV (720p)
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="📺 AmiAdi-TV",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 tvg-id="Indosiar.TiVi" tvg-name="Indosiar.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Findosiar.jfif?alt=media&token=3ee58305-4fde-490c-8470-742c5652a957",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Findosiar.jfif?alt=media&token=3ee58305-4fde-490c-8470-742c5652a957",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 tvg-id="Indosiar.TiVi" tvg-name="Indosiar.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" group-title="📺 AmiAdi-TV" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://fta-idn.streamo.cfd/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTINF:-1 tvg-id="SCTV.TiVi" tvg-name="SCTV.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fsctv.jfif?alt=media&token=76a3b0df-822f-498e-b80c-0137449b8374",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fsctv.jfif?alt=media&token=76a3b0df-822f-498e-b80c-0137449b8374",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTINF:-1 tvg-id="SCTV.TiVi" tvg-name="SCTV.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d3gwguonfqlgtv.cloudfront.net/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="ANTV.TiVi" tvg-name="ANTV.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png",ANTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv
 
 
-#EXTINF:-1 tvg-id="MDTV.TiVi" tvg-name="MDTV.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://iptvsystem.my.id/img/mdtv.png",MDTV
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://iptvsystem.my.id/img/mdtv.png",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 
@@ -71,7 +71,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="RTV.TiVi" tvg-name="RTV.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frtv.jpg?alt=media&token=f446a58b-c091-4c72-bc17-aa26f2ebb965",RTV
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frtv.jpg?alt=media&token=f446a58b-c091-4c72-bc17-aa26f2ebb965",RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
@@ -92,20 +92,20 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="RCTI.TiVi" tvg-name="RCTI.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb",RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="MNCTV.TiVi" tvg-name="MNCTV.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fmnctv.jfif?alt=media&token=7483abbd-d27e-41e8-b387-9f8e3a8aadaf",MNCTV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fmnctv.jfif?alt=media&token=7483abbd-d27e-41e8-b387-9f8e3a8aadaf",MNCTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="GTV.TiVi" tvg-name="GTV.TiVi" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fgtv.jfif?alt=media&token=5bfc6308-4504-4f5d-a7c6-ae842d3b2809",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fgtv.jfif?alt=media&token=5bfc6308-4504-4f5d-a7c6-ae842d3b2809",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 
@@ -612,7 +612,7 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/157477
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.TiVigo.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.idgo.workers.dev/
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="🎬 Filem",Warner TV
 https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 

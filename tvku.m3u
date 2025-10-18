@@ -440,6 +440,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
 
 #Filem
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🎬 Filem" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/RCTV_Cirebon.jpg",Ellio
+https://cloud.hownetwork.xyz/zzz/JxQgIWhLR3N3fCAJAXQaBxoneC92SEV3djU/34/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994

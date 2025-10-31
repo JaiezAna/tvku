@@ -5,6 +5,18 @@
 
 #Bioskop Rumah
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Animasi" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-bad-guys-2/images/regions/ca/onesheet.jpg",The Bad Guys 2 (2025)
+https://cloud.hownetwork.xyz/zzz/IBktYyIMDjJvY1p-cwJjdRU9CwoJJi8ecGcRKSEJYm4/34/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Animasi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ0NTRkNGMtMDM2NS00ZTkxLWE3NWYtNzE3MTQ4YTg4Njg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",The Bad Guys: Haunted Heist (2024)
+https://cloud.hownetwork.xyz/zzz/12cace21dbaee718d4ecd70a3894209b/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Animasi" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0YWY0NmQtMTU2Yi00MjA4LTk3MTktNDcwZDljOTgyMTdkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Lego Marvel Avengers: Mission Demolition (2024)
+https://cloud.hownetwork.xyz/zzz/c0230d771f26b289c1ff9e1a578e4dc3/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Animasi" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhkZjhmNjUtZDk0Yy00YTk4LTg2ZWYtZDU3ZjEwMGFhMjUzXkEyXkFqcGc@._V1_FMjpg_UY712_.jpg",Grand Prix of Europe (2025)
+https://cloud.hownetwork.xyz/zzz/JQooICFUBzMrKVopNkI5KCdVe353TFoWBxMzABxoCWwhGnh9dU1B/25/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Animasi" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJmZGE4MmQtODY5MC00YzkzLWE4NTItMzAxMjM4ZDdlNmM1XkEyXkFqcGc@._V1_.jpg",Ellio
 https://cdn4.turboviplay.com/data1/68a3e12076e43/68a3e12076e43.m3u8
 
@@ -22,6 +34,9 @@ https://cloud.hownetwork.xyz/zzz/JxIsIGgYGyhvPBg6KlV7am9KeXxwVCAEABU7ExtvZG4hG3F
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sci-fi" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM3ZmI3NzQtNzU5Yi00ZWI1LTg3YTAtNmNmNWIyMWFjZTBkXkEyXkFqcGc@._V1_.jpg",Jurassic World: Rebirth (2025)
 https://cloud.hownetwork.xyz/zzz/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYQFcIwojARYWGk9HJCRoFChz/34/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sci-fi" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_.jpg",Captain America: Brave New World (2025)
+https://cdn.turboviplay.com/data1/68209c35d3318/68209c35d3318.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Animasi" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTNmODkxN2MtMzJlNC00ODc4LWFhNjctMTIzZTk5ODc0MjExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",The Twits (2025)
 https://cloud.hownetwork.xyz/zzz/Ng8gOjZURXFwZFobBnISFB0gFn4hSBNwJzIR/26/480.m3u8

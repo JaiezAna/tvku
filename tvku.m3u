@@ -13,22 +13,22 @@
 
 #AmiAdi-TV (ID)
 
-#EXTINF:-1 tvg-id="DW.com" tvg-name="DW.id" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW Documenter
+#EXTINF:-1 tvg-id="DW.com" tvg-name="DW.id" group-title="📺 AmiAdi-TV" tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png",DW Documenter
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/RCTV_Cirebon.jpg",RCTV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png",RCTV (576p) [Not 24/7]
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="📺 AmiAdi-TV",Trans7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg" group-title="📺 AmiAdi-TV",Trans7
 http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png", Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" group-title="📺 AmiAdi-TV" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg", Trans 7
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png", Trans TV (Indi)
+#EXTINF:-1 tvg-id="TransTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg", Trans TV (Indi)
 https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="📺 AmiAdi-TV",Trans TV (720p)
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="📺 AmiAdi-TV",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

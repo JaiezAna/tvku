@@ -1,3 +1,16 @@
+#EXTM3U
+ 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"  
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/scripts/global/indonesiapremium1.xml.json"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="3600"
+
+
+# Some tv channels use DRM, maybe the channel cannot be played (usually stuck loading) because your device does not support DRM.
+# This list for trial channel purposes.
+# If you want all of the channels below to remain active, please support them by subscribing to the relevant providers
+# This is a streaming playlist selected for OTT player app only, NOT FOR SALE.
+
 #AmiAdi-TV (ID)
 
 #EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png",RCTV (576p) [Not 24/7]

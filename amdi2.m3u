@@ -25,6 +25,12 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="AmiAdi-TV 🇮🇩",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png" group-title="AmiAdi-TV 🇮🇩",Indosiar MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SCTV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="AmiAdi-TV 🇮🇩",SCTV
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -32,16 +38,31 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="AmiAdi-TV 🇮🇩",Global TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" group-title="AmiAdi-TV 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/171/438171-SNAPSHOT-l.png",ANTV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="AmiAdi-TV 🇮🇩",ANTV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb"tvg-chno=""group-title="AmiAdi-TV 🇮🇩",RCTI (R+)
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" group-title="AmiAdi-TV 🇮🇩"" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb",RCTI MPD
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fmnctv.jfif?alt=media&token=7483abbd-d27e-41e8-b387-9f8e3a8aadaf"group-title="AmiAdi-TV 🇮🇩",MNC TV (R+)
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" group-title="AmiAdi-TV 🇮🇩" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fmnctv.jfif?alt=media&token=7483abbd-d27e-41e8-b387-9f8e3a8aadaf",MNCTV MPD
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="MAGNA TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="AmiAdi-TV 🇮🇩",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -50,13 +71,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
 
-#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://hometv.pw/logo/lokal/tvri.png" group-title="AmiAdi-TV 🇮🇩",TVRI
+#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="AmiAdi-TV 🇮🇩",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/400px-TVRI_Sport_2022.svg.png" group-title="AmiAdi-TV 🇮🇩",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/TVRI_Sport_HD.png" group-title="AmiAdi-TV 🇮🇩",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/400px-TVRI_Sport_2022.svg.png" group-title="AmiAdi-TV 🇮🇩",TVRI World
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/TVRI_World_White_Ident.png" group-title="AmiAdi-TV 🇮🇩",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-id="KOMPAS TV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FKompas%20TV%20SD-FirstMedia-Chl-15.jpg&w=1920&q=100" group-title="AmiAdi-TV 🇮🇩",Kompas TV
@@ -79,7 +100,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 tvg-id="Garuda.tv" tvg-logo="https://aksara.biz.id/wp-content/uploads/2023/09/sikopi.webp" group-title="AmiAdi-TV 🇮🇩",Garuda TV
+#EXTINF:-1 tvg-id="Garuda.tv" tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png" group-title="AmiAdi-TV 🇮🇩",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="AmiAdi-TV 🇮🇩",Jawa Pos TV (720p) [Not 24/7]
@@ -99,35 +120,35 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="AmiAdi-TV 🇮🇩",TVKU (720p)
 http://103.30.1.14:8080/hls/live.m3u8
 
-#Religi 📿
-#EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/28/20241120125715%21Logo_Al-Iman_TV.png" group-title="Religi 📿",Al-Iman TV (720p)
+#AmiAdi-Religi 📿
+#EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/28/20241120125715%21Logo_Al-Iman_TV.png" group-title="AmiAdi-Religi 📿",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8
 
-#EXTINF:-1 tvg-id="AlWafaTarim.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/78/Logo_Al-Wafa_TV.png" group-title="Religi 📿",Alwafa Tarim TV (Am Media) (720p)
+#EXTINF:-1 tvg-id="AlWafaTarim.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/78/Logo_Al-Wafa_TV.png" group-title="AmiAdi-Religi 📿",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png" group-title="Religi 📿",Ashiil TV (480p)
+#EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png" group-title="AmiAdi-Religi 📿",Ashiil TV (480p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1d/Logo_DMTV.png" group-title="Religi 📿",DM TV Malang
+#EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1d/Logo_DMTV.png" group-title="AmiAdi-Religi 📿",DM TV Malang
 https://e.siar.us/live/dmtv.m3u8
 
-#EXTINF:-1 tvg-id="MadaniTV.id@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEowC27IyXxG6369_MuEHDJASTR26vCrmoXg&s" group-title="Religi 📿",Madani TV (720p)
+#EXTINF:-1 tvg-id="MadaniTV.id@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEowC27IyXxG6369_MuEHDJASTR26vCrmoXg&s" group-title="AmiAdi-Religi 📿",Madani TV (720p)
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Religi 📿",MQTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="AmiAdi-Religi 📿",MQTV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Religi 📿",TV Mu (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="AmiAdi-Religi 📿",TV Mu (720p) [Not 24/7]
 https://e.siar.us/live/tvmu.m3u8
 
-#EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Salamtv.png/960px-Salamtv.png" group-title="Religi 📿",Salam TV (1080p)
+#EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Salamtv.png/960px-Salamtv.png" group-title="AmiAdi-Religi 📿",Salam TV (1080p)
 https://salamtv.siar.us/live/salamtv.m3u8
 
-#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png" group-title="Religi 📿",Surau TV
+#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png" group-title="AmiAdi-Religi 📿",Surau TV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 
-#EXTINF:-1 tvg-id="TVMUI.id@SD" tvg-logo="https://mui.or.id/storage/berita/b25bedf597e4cb2e10145932c3212d3d-gambar.jpg" group-title="Religi 📿",TV MUI (720p)
+#EXTINF:-1 tvg-id="TVMUI.id@SD" tvg-logo="https://mui.or.id/storage/berita/b25bedf597e4cb2e10145932c3212d3d-gambar.jpg" group-title="AmiAdi-Religi 📿",TV MUI (720p)
 https://mui.siar.us/mui/live/playlist.m3u8
 
 #Anak 🧒
@@ -135,7 +156,7 @@ https://mui.siar.us/mui/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://e.siar.us/live/deikidstv.m3u8
 
-#EXTINF:-1 tvg-id="RTV" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Anak 🧒",RTV
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://i.pinimg.com/736x/b9/0a/c8/b90ac8ae062a39d4a92e978454651cb6.jpg" group-title="Anak 🧒",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
@@ -595,3 +616,109 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png"tvg-chno=""group-title="Thailand 🇹🇭":http-referrer="":http-user-agent="",Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+
+#China 🇨🇳
+#EXTINF:-1 tvg-name=""tvg-id="tvb xing he"tvg-logo="https://i.imgur.com/QNpsZx1.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",TVB XING HE
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/EncW1Bk.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",XING KONG TV
+https://dl.dropboxusercontent.com/scl/fi/rrxb2v21qox1na9onp419/XING_KONG_TV.m3u8?rlkey=s9vs6qgbpfnvum4un2of904wm
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/YDMCD2V.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",SHENZEN TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/x9WlTNz.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",ZHEJIANG TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/YHrLDix.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",NTD 新唐人大陸台
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id="PhoenixChineseChannel.hk"tvg-logo="https://i.imgur.com/nS8i6by.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",PHOENIX CHINESE CHANNEL
+https://dl.dropboxusercontent.com/scl/fi/q4fqnkqjr2k5uro06aix1/phoenixchn.m3u8?rlkey=sek2n1fhk9r92np2u4gvhxyb7
+
+#EXTINF:-1 tvg-name=""tvg-id="PhoenixInfoNewsChannel.hk"tvg-logo="https://i.imgur.com/UlTx7SN.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",PHOENIX INFO NEWS
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+
+#EXTINF:-1 tvg-name=""tvg-id="cctv1"tvg-logo="https://i.imgur.com/mctD9Pn.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 1
+https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+
+#EXTINF:-1 tvg-name=""tvg-id="cctv2"tvg-logo="https://i.imgur.com/e41oLuC.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 2
+http://42.225.117.174:11199/tsfile/live/0002_1.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id="cctv3"tvg-logo="https://i.imgur.com/UxPErGk.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 3
+http://61.134.251.75:8001/rtp/226.0.2.20:8072
+
+#EXTINF:-1 tvg-name=""tvg-id="cctv4"tvg-logo="https://i.imgur.com/NYnr6Mg.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="http://dens.tv":http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",CCTV 4
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
+
+#EXTINF:-1 tvg-name=""tvg-id="cctv5"tvg-logo="https://i.imgur.com/lzJCfQO.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 5
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/92fmBl6.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 5+
+http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/tTTNfh3.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 6
+http://198.16.100.186:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/btdgEhM.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 7
+http://cz.crossec.com:35455/mgtv/673168121.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/dPcukes.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 8
+http://198.16.100.186:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/B3u13VM.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 9
+http://198.16.100.186:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/CsPS8Op.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 10
+http://198.16.100.186:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/Ef8b4fl.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 11
+http://198.16.100.186:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/YPjBdTp.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 12
+http://198.16.100.186:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/YrO6k4i.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 13
+http://198.16.100.186:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/XOgxP5p.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 14
+http://cz.crossec.com:35455/mgtv/624878440.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/oC4jhXd.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 15
+http://111.43.126.240:9003/hls/28/index.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/k1U8bVZ.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 16
+http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/e9mw40Q.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV 17
+http://cz.crossec.com:35455/mgtv/673168256.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/MFuJPM7.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",CCTV+
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://live.fanmingming.com/tv/浙江国际.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/puBiuLK.jpeg"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://live.fanmingming.com/tv/钱江都市.png"tvg-chno=""group-title="China 🇨🇳":http-referrer="":http-user-agent="",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8

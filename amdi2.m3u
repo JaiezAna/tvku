@@ -91,6 +91,9 @@ https://flv.intechmedia.net/live/ch112.m3u8
 #EXTINF:-1 tvg-id="Garuda.tv" tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png" group-title="AmiAdi-TV 🇮🇩",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
+#EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1d/Logo_DMTV.png" group-title="AmiAdi-TV 🇮🇩",DM TV Malang
+https://e.siar.us/live/dmtv.m3u8
+
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="AmiAdi-TV 🇮🇩",Jawa Pos TV (720p) [Not 24/7]
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
@@ -117,9 +120,6 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png" group-title="AmiAdi-Religi 📿",Ashiil TV (480p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
-
-#EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1d/Logo_DMTV.png" group-title="AmiAdi-Religi 📿",DM TV Malang
-https://e.siar.us/live/dmtv.m3u8
 
 #EXTINF:-1 tvg-id="MadaniTV.id@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEowC27IyXxG6369_MuEHDJASTR26vCrmoXg&s" group-title="AmiAdi-Religi 📿",Madani TV (720p)
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8

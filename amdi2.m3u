@@ -19,6 +19,13 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" group-title="AmiAdi-TV 🇮🇩" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg", Trans 7
 http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="AmiAdi-TV 🇮🇩",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg" group-title="AmiAdi-TV 🇮🇩",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 

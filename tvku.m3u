@@ -22,7 +22,7 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg" group-title="📺 AmiAdi-TV",Trans7
 http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" group-title="📺 AmiAdi-TV" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg", Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" group-title="📺 AmiAdi-TV" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg", Trans7 V+
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" group-title="📺 AmiAdi-TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2022/09/jadwal-program-trans-tv-2.jpg", Trans TV (Indi)
@@ -72,8 +72,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=li
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="📺 AmiAdi-TV",MentariTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=8237&type=hls
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FNusantara_TV.png?alt=media&token=e468e3e0-8401-429b-abef-7868f02a5e44" group-title="📺 AmiAdi-TV",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8

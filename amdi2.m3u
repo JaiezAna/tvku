@@ -323,10 +323,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTINF:-1 tvg-id="TvNMovies" tvg-name="TvNMovies" group-title="Filem 🎬" tvg-logo="https://iptvsystem.my.id/img/tvnmovies.png",TvN Movies
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Filem 🎬",Rock Entertainment [FHD] ⭐
-https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
 
 #Malaysia (🇲🇾)
 

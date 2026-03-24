@@ -49,6 +49,22 @@
             "thumbnail": "https://img.gamepix.com/games/cut-the-rope/cover/cut-the-rope.png",
             "category": "puzzle",
             "orientation": "landscape"
+        },
+        {
+            "id": "stick_rush",
+            "title": "Stick Rush",
+            "url": "https://poki.com/id/g/stick-rush",
+            "thumbnail": "https://img.poki-cdn.com/cdn-cgi/image/q=78/6b5148f4216123c449065e7bedbc0093/stick-rush.png",
+            "category": "2player",
+            "orientation": "landscape"
+        },
+        {
+            "id": "dino_bros",
+            "title": "Dino Bros",
+            "url": "https://poki.com/id/g/dino-bros",
+            "thumbnail": "https://img.poki-cdn.com/cdn-cgi/image/q=78/e4010015d91786185e3d91d195957a9f/dino-bros.png",
+            "category": "2player",
+            "orientation": "landscape"
         }
     ]
 }

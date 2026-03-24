@@ -1,0 +1,54 @@
+{
+    "version": "1.0",
+    "last_update": "2026-03-24",
+    "games": [
+        {
+            "id": "om_nom_run",
+            "title": "Om Nom Run",
+            "url": "https://play.famobi.com/wrapper/om-nom-run/A1000-10",
+            "thumbnail": "https://img.gamepix.com/games/om-nom-run/cover/om-nom-run.png",
+            "category": "arcade",
+            "orientation": "landscape"
+        },
+        {
+            "id": "table_tennis_world_tour",
+            "title": "Table Tennis World Tour",
+            "url": "https://play.famobi.com/wrapper/table-tennis-world-tour/A1000-10",
+            "thumbnail": "https://img.gamepix.com/games/table-tennis-world-tour/cover/table-tennis-world-tour.png",
+            "category": "sports",
+            "orientation": "landscape"
+        },
+        {
+            "id": "moto_x3m_pool_party",
+            "title": "Moto X3M Pool Party",
+            "url": "https://play.famobi.com/wrapper/moto-x3m-pool-party/A1000-10",
+            "thumbnail": "https://img.gamepix.com/games/moto-x3m-pool-party/cover/moto-x3m-pool-party.png",
+            "category": "racing",
+            "orientation": "landscape"
+        },
+        {
+            "id": "8_ball_billiards_classic",
+            "title": "8 Ball Billiards Classic",
+            "url": "https://play.famobi.com/wrapper/8-ball-billiards-classic/A1000-10",
+            "thumbnail": "https://img.gamepix.com/games/8-ball-billiards-classic/cover/8-ball-billiards-classic.png",
+            "category": "sports",
+            "orientation": "landscape"
+        },
+        {
+            "id": "bubble_woods",
+            "title": "Bubble Woods",
+            "url": "https://play.famobi.com/wrapper/bubble-woods/A1000-10",
+            "thumbnail": "https://img.gamepix.com/games/bubble-woods/cover/bubble-woods.png",
+            "category": "puzzle",
+            "orientation": "landscape"
+        },
+        {
+            "id": "cut_the_rope",
+            "title": "Cut The Rope",
+            "url": "https://play.famobi.com/wrapper/cut-the-rope/A1000-10",
+            "thumbnail": "https://img.gamepix.com/games/cut-the-rope/cover/cut-the-rope.png",
+            "category": "puzzle",
+            "orientation": "landscape"
+        }
+    ]
+}

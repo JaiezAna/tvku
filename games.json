@@ -3,27 +3,51 @@
     "last_update": "2026-03-24",
     "games": [
         {
-            "id": "crazygames",
-            "title": "Crazygames",
-            "url": "https://www.crazygames.com/",
-            "thumbnail": "https://mobidictum.com/wp-content/uploads/2023/08/ten-reasons-to-publish-your-web-game-with-crazy-games.jpg",
-            "category": "Online Games",
+            "id": "cubes-2048-royale",
+            "title": "Cubes 2048 Royale",
+            "url": "https://www.crazygames.com/id/game/cubes-2048-royale",
+            "thumbnail": "https://imgs.crazygames.com/cubes-2048-royale_16x9/20260506144103/cubes-2048-royale_16x9-cover?metadata=none&quality=60&height=4175",
+            "category": "arcade",
             "orientation": "landscape"
         },
         {
-            "id": "pokigames",
-            "title": "Poki",
-            "url": "https://poki.com",
-            "thumbnail": "https://a.poki-cdn.com/cdn-cgi/image/quality=78,width=1200,height=600,f=png/opengraph/3/home/home-1200x600.png",
-            "category": "Online Games",
+            "id": "cubes-2048-io",
+            "title": "Cubes 2048 io",
+            "url": "https://www.crazygames.com/game/cubes-2048-io",
+            "thumbnail": "https://imgs.crazygames.com/games/cubes-2048-io/cover_1x1-1693298929744.png",
+            "category": "arcade",
             "orientation": "landscape"
         },
         {
-            "id": "msngames",
-            "title": "MSN Games",
-            "url": "https://www.msn.com/id-id/play",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0c/MSN_Games.png",
-            "category": "Online Games",
+             "id": "bloxorz",
+            "title": "Bloxorz",
+            "url": "https://www.crazygames.com/game/bloxorz",
+            "thumbnail": "https://imgs.crazygames.com/games/bloxorz/cover-1669373098527.png",
+            "category": "arcade",
+            "orientation": "landscape"
+        },
+        {
+            "id": "sushyparti.io",
+            "title": "Sushy Party",
+            "url": "https://poki.com/id/g/sushi-party-io",
+            "thumbnail": "https://img.gamepix.com/games/sushiparty-io/cover/sushiparty-io.png?w=1200&ar=16:10",
+            "category": "arcade",
+            "orientation": "landscape"
+        },
+        {
+            "id": "cat-disco",
+            "title": "Cat Disco",
+            "url": "https://www.msn.com/id-id/play/games/cat-disco/cg-9pmcmvrvfqkk",
+            "thumbnail": "https://geometrygames.io/data/image/game/jump-in-rhythm-to-the-hit-cat-disco/jump-in-rhythm-to-the-hit-cat-disco.png",
+            "category": "arcade",
+            "orientation": "landscape"
+        },
+        {
+            "id": "dino_bros",
+            "title": "Dino Bros",
+            "url": "https://poki.com/id/g/dino-bros",
+            "thumbnail": "https://img.poki-cdn.com/cdn-cgi/image/q=78/e4010015d91786185e3d91d195957a9f/dino-bros.png",
+            "category": "2player",
             "orientation": "landscape"
         }
     ]

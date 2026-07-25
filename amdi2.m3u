@@ -173,8 +173,7 @@ https://e.siar.us/live/dmtv.m3u8
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="AmiAdi-TV 🇮🇩",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV.id" group-title="AmiAdi-TV 🇮🇩" tvg-logo="https://iptvsystem.my.id/img/mdtv.png",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43

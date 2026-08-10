@@ -54,12 +54,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="AmiAdi-TV 🇮🇩",TransTV HD
 https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58e5be4321858e7f654ba9a9b87fb337e/dash/VHJhbnNUVg/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="AmiAdi-TV 🇮🇩",Indosiar (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive

@@ -17,10 +17,7 @@
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" group-title="AmiAdi-TV 🇮🇩" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg", Trans 7
-https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" group-title="AmiAdi-TV 🇮🇩" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg", Trans 7
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1097369812_b544100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY5NTc0NzEwMDgmd293emF0b2tlbmhhc2g9aVNEbEhCcGs0U3hmU0dZWlVuQUVRTUpLQkRRX3czWjRxQ08wQUxVbkN1dz0=.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(VBYnh_FeXzmbIvCwdga1oAdTJIv4KxjhZRj0uLtGYMI_-aoCafPyj2y6oWjtcwEjIULnZ7372y05_vfQTashLqQNyzj-bdwlrNUTUeKsPJgiosgkT7f6ERFc1VG5V3sf)/dm/3/x8qckyq/d/live-720.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="ttps://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Trans-7-copy-quyktxny3fc0iw1echngrpg9e1uo3qebuvh5jtq1vy.jpg" group-title="AmiAdi-TV 🇮🇩",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1

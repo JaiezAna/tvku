@@ -22,6 +22,11 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="AmiAdi-TV 🇮🇩",Trans7 HD
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="AmiAdi-TV 🇮🇩",Trans7 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="AmiAdi-TV 🇮🇩",Indosiar
 http://202.150.172.59/Indosiar/index.m3u8
 
@@ -46,13 +51,13 @@ https://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="AmiAdi-TV 🇮🇩",Global TV
 https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="AmiAdi-TV 🇮🇩",GTV (V+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
 
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="AmiAdi-TV 🇮🇩",ANTV
@@ -62,20 +67,21 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" group-title="AmiAdi-TV 🇮🇩"" tvg-logo="https://files.klob.id/public/mig01/l3ifnvev/download_-_2022-05-23T145441.400.png",RCTI
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" group-title="AmiAdi-TV 🇮🇩"" tvg-logo="https://files.klob.id/public/mig01/l3ifnvev/download_-_2022-05-23T145441.400.png",RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-id="auto.mnc.tv" tvg-name="MNCTV.id" group-title="AmiAdi-TV 🇮🇩" tvg-logo="https://images.seeklogo.com/logo-png/9/1/mnc-logo-png_seeklogo-93807.png",MNCTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-id="MAGNA TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="AmiAdi-TV 🇮🇩",MAGNA TV
